@@ -55,46 +55,7 @@ My interests include designing reliable systems, solving complex engineering pro
 
 - 🔭 Building scalable **software and digital products**
 - 🏢 Leading technology & engineering at **Indusbyte LLP**
-- 🧩 Working on **restaurant management and business software**
-- 🌱 Deepening my knowledge of **distributed systems, networking & system design**
-- 🎓 Pursuing **MCA**
 - 💡 Exploring new approaches to product engineering, cloud infrastructure and AI
-
----
-
-## Technology
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,go,python,rust" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,fastapi,postgres,redis,mongodb" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
-</p>
-
-### Cloud & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,nginx,linux" />
-</p>
-
-### Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,grafana" />
-</p>
-
----
 
 ## Engineering Interests
 

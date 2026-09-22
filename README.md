@@ -51,18 +51,6 @@ My focus is on combining **strong engineering, product thinking, and execution**
 - 🤖 AI & Automation
 - 📦 Product Engineering & Technical Strategy
 
----
-
-## Current Work
-
-- 🔭 Building scalable **software and digital products**
-- 🏢 Leading **technology, architecture & engineering** at **Indusbyte LLP**
-- 🚀 Turning ideas into **production-ready products**
-- 💡 Solving **real-world business and technology problems**
-- 🌐 Exploring **cloud, AI and modern software architecture**
-
----
-
 ## Engineering Interests
 
 - 🏗️ **Software Architecture & System Design**
@@ -86,7 +74,6 @@ I believe good engineering is about more than writing code — it's about **unde
 ## What I Build
 
 - 🧩 Business & SaaS Applications
-- 🍽️ Restaurant & Management Platforms
 - 🌐 Web & Mobile Products
 - ⚡ High-performance Backend Systems
 - ☁️ Cloud-native Infrastructure

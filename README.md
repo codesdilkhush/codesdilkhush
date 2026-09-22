@@ -1,50 +1,112 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Dilkhush%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" />
-</p>
-<h3 align="center">Co-Founder & CTO @ Traken Group | Building Scalable Software Products | Freelance Developer</h3>
-
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently building **Restaurant Management System**
-- 🌱 Learning **Computer Networking & System Design**
-- 🎓 Pursuing **MCA at Shoolini University** (2025–2027)
-- 👨‍💻 Projects: https://dilkhush.online/projects
-- 📄 Portfolio: https://dilkhush.online
-- 📍 Based in **Supaul, Bihar, India**
-
-<p align="center">
-  <a href="https://twitter.com/codesdilkhush"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/codesdilkhush"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/codesdilkhush"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/codesdilkhush"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=180&section=header&text=Dilkhush%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    width="100%"
+  />
 </p>
 
----
-
-# 📊 GitHub Stats
+<h3 align="center">
+  Co-Founder & CTO @ Indusbyte LLP
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codesdilkhush&theme=tokyonight" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codesdilkhush&theme=tokyonight" height="180em"/>
+  Building Scalable Software Products • Technology & Engineering • Software Architecture
 </p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codesdilkhush&theme=tokyonight" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codesdilkhush&theme=tokyonight" height="180em"/>
+  <a href="https://dilkhush.online">
+    <img src="https://img.shields.io/badge/Portfolio-dilkhush.online-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/codesdilkhush">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/codesdilkhush">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:dilkhush@indusbyte.in">
+    <img src="https://img.shields.io/badge/Email-dilkhush%40indusbyte.in-EA580C?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# ⚡ Activity Graph
+## About
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codesdilkhush&theme=tokyo-night"/>
+I'm a **Co-Founder & CTO at Indusbyte LLP**, focused on building scalable software products and leading technology, architecture, and engineering strategy.
+
+I work across the product lifecycle — from **system architecture and backend engineering to infrastructure, product development, and technical execution**.
+
+My interests include designing reliable systems, solving complex engineering problems, and turning ideas into production-ready products that can scale with real-world business requirements.
+
+### What I Focus On
+
+- 🏗️ Software Architecture & System Design
+- ⚙️ Backend Engineering & Distributed Systems
+- ☁️ Cloud Infrastructure & DevOps
+- 🚀 Scalable SaaS & Digital Products
+- 🔐 APIs, Authentication & Application Security
+- 🗄️ Database Architecture & Performance
+- 🤖 AI & Automation
+- 📦 Product Engineering & Technical Strategy
+
+---
+
+## Current Work
+
+- 🔭 Building scalable **software and digital products**
+- 🏢 Leading technology & engineering at **Indusbyte LLP**
+- 🧩 Working on **restaurant management and business software**
+- 🌱 Deepening my knowledge of **distributed systems, networking & system design**
+- 🎓 Pursuing **MCA**
+- 💡 Exploring new approaches to product engineering, cloud infrastructure and AI
+
+---
+
+## Technology
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,python,rust" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codesdilkhush&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,fastapi,postgres,redis,mongodb" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,nginx,linux" />
+</p>
+
+### Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,grafana" />
+</p>
+
+---
+
+## Engineering Interests
+
+```text
+Software Architecture
+        ↓
+Distributed Systems
+        ↓
+Backend & APIs
+        ↓
+Cloud Infrastructure
+        ↓
+Scalable Product Engineering
+        ↓
+Business Impact
